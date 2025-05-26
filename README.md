@@ -1,59 +1,57 @@
-## Hi there 👋
-
-<h1 align="center">👋 Merhaba, ben Nurcan Yaz!</h1>
+<h1 align="center">👋 Hi, I'm Nurcan Yaz!</h1>
 
 <p align="center">
-🎓 Bilgisayar Mühendisliği mezunuyum • 🤖 Yapay Zeka ve Makine Öğrenmesi Geliştiricisi <br>
+🎓 Computer Engineering Graduate • 🤖 AI & Machine Learning Developer <br>
 🛠️ AI | ML | Deep Learning | NLP | Python | LLMs <br>
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-Ben Nurcan, Gazi Üniversitesi Bilgisayar Mühendisliği mezunuyum. Yapay zeka, makine öğrenmesi ve doğal dil işleme alanlarında uzmanlaşmak için çok yönlü bir öğrenme sürecine girdim. Hem teorik bilgimi hem de pratik becerilerimi projeler geliştirerek ilerletiyorum.
+I'm Nurcan, a Computer Engineering graduate from Gazi University. I am on a comprehensive learning journey to specialize in artificial intelligence, machine learning, and natural language processing. I continuously strengthen my theoretical knowledge and practical skills by building projects.
 
-- 🔭 Şu anda 4 aşamalı bir Yapay Zeka Uzmanlık Yolculuğu içerisindeyim.
-- 📚 Python, Scikit-learn, TensorFlow, PyTorch ve Hugging Face gibi teknolojilerle çalışıyorum.
-- 🌱 Her kurstan sonra küçük projeler yaparak bilgimi pekiştiriyor ve GitHub’da yayınlıyorum.
-
----
-
-### 🧠 İlgi Alanlarım
-
-- Makine Öğrenmesi (ML)
-- Derin Öğrenme (DL)
-- Doğal Dil İşleme (NLP)
-- Üretken Yapay Zeka (Generative AI & LLMs)
-- Chatbotlar ve Soru-Cevaplama Sistemleri
+- 🔭 Currently progressing through a 4-stage AI specialization roadmap.
+- 📚 Working with Python, Scikit-learn, TensorFlow, PyTorch, and Hugging Face.
+- 🌱 Reinforcing my learning by creating and sharing small projects on GitHub after completing each course.
 
 ---
 
-### ⚒️ Kullandığım Araç ve Teknolojiler
+### 🧠 Areas of Interest
+
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Natural Language Processing (NLP)
+- Generative AI & Large Language Models (LLMs)
+- Chatbots and Question-Answering Systems
+
+---
+
+### ⚒️ Tools & Technologies
 
 | Python | NumPy | Pandas | Scikit-learn | TensorFlow | PyTorch |
-|--------|-------|--------|---------------|-------------|---------|
+|--------|-------|--------|--------------|------------|---------|
 | Hugging Face | Jupyter | Flask | Git | Linux | VS Code |
 
 ---
 
-### 📌 Öne Çıkan Projeler
+### 📌 Featured Projects
 
-Yakında burada tamamladığım projeleri paylaşacağım:
-- 🎯 Lojistik regresyonla veri sınıflandırma
-- 🧠 LSTM ile duygu analizi
-- 💬 ChatGPT API ile chatbot geliştirme
-- 🗂️ Hugging Face modeli ile özetleme uygulaması
+I will be sharing my completed projects here soon:
+- 🎯 Data classification using Logistic Regression
+- 🧠 Sentiment Analysis with LSTM
+- 💬 Chatbot development using ChatGPT API
+- 🗂️ Summarization app built with a Hugging Face model
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Get In Touch
 
-- LinkedIn: [linkedin.com/in/nurcanyaz](https://www.linkedin.com/in/nurcanyaz)
-- E-posta: yaznurcan25@gmail.com
+- LinkedIn: [linkedin.com/in/nurcanyaz](https://www.linkedin.com/in/nurcanyaz)  
+- Email: nurcan.yaz@email.com
 
 ---
 
 <p align="center">
-✨ GitHub profilimi ziyaret ettiğiniz için teşekkürler! ✨
+✨ Thank you for visiting my GitHub profile! ✨
 </p>
