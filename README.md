@@ -48,7 +48,7 @@ I will be sharing my completed projects here soon:
 ### 📫 Get In Touch
 
 - LinkedIn: [linkedin.com/in/nurcanyaz](https://www.linkedin.com/in/nurcanyaz)  
-- Email: nurcan.yaz@email.com
+- Email: yaznurcan25@gmail.com
 
 ---
 
