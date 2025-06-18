@@ -35,15 +35,6 @@ I'm Nurcan, a Computer Engineering graduate from Gazi University. I am on a comp
 
 ---
 
-### 📌 Featured Projects
-
-I will be sharing my completed projects here soon:
-- 🎯 Data classification using Logistic Regression
-- 🧠 Sentiment Analysis with LSTM
-- 💬 Chatbot development using ChatGPT API
-- 🗂️ Summarization app built with a Hugging Face model
-
----
 
 ### 📫 Get In Touch
 
